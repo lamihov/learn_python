@@ -1,0 +1,2 @@
+''' Существует три типа модулей: написанные самостоятельно, взятые из других источников и предустановленные (стандартная библиотека). Такие как: string, re, datetime, math,random, os, multiprocessing, subprocessing, socket, em, json, doctest, unittest, pdb,argparse, sys'''
+import math

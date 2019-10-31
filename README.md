@@ -1,4 +1,3 @@
-# test_python
-learn python 3
+# learn_python
 
-![](https://pluralsight.imgix.net/paths/python-7be70baaac.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRzZ5GmKnNBBwn5AwvEPsHe6nNqkJC9PUJ-ChQjQkLr07Qu2O&s)
